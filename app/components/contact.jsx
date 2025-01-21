@@ -37,6 +37,8 @@ const contact = () => {
               Submit <Image src={assets.right_arrow_white} alt='' className='w-4' />
             </button>
 
+            <p className='mt-4'>Sending your message....</p>
+
         </form>
     </div>
   )
