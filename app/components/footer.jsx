@@ -17,9 +17,9 @@ const footer = ({isDarkMode}) => {
         <div className='text-center sm:flex items-center justify-between border-t border-gray-400 mx-[10%] mt-12 py-6'>
             <p>© 2025 Fandi A. All Right Reserved.</p>
             <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0'>
-                <li><a target='_blank' href='https://github.com/FFF9ep'>Github</a></li>
-                <li><a target='_blank' href='www.linkedin.com/in/fandiardyan'>LinkedIn</a></li>
-                <li><a target='_blank' href='https://www.instagram.com/fanndi._/'>Instagram</a></li>
+                <li><a target='_blank' href='https://github.com/FFF9ep'>Github.</a></li>
+                <li><a target='_blank' href='www.linkedin.com/in/fandiardyan'>LinkedIn.</a></li>
+                <li><a target='_blank' href='https://www.instagram.com/fanndi._/'>Instagram.</a></li>
             </ul>
         </div>
     </div>
